@@ -1,159 +1,220 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Aquários",
+      "link": "https://www.youtube.com/channel/UC3Kk8tvhHkWMMfKBb0q0X9g",
+      "cor": "#388659",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Aquários plantados",
+        "url": "https://www.youtube.com/watch?v=LUp2-DqEfOE&t"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Ep.5 Sweet Potato Betta Tank (Kartoffel Gets Hurt) No filter, No CO2, NO ferts 4.5 Gallon Nano",
+          "url": "https://www.youtube.com/watch?v=HYHmSM87dno"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "How to Make Aquarium Algae Scrubber & 11th Month Flowerhorn Update",
+          "url": "https://www.youtube.com/watch?v=stgunpfVhks"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "8 Months Update - (Too Many Shrimps) NO filter, NO CO2, NO Ferts 5 Gallon Nano Tank",
+          "url": "https://www.youtube.com/watch?v=OLh-4Tzc-2M"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "4 Months Update - Baby Flowerhorn Growth to a Juvenile",
+          "url": "https://www.youtube.com/watch?v=ydpx-G-YpyA"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "30th Month – (RED CABBAGE Feeding Frenzy) NO filter, NO CO2, NO Ferts 5 Gallon Nano Tank",
+          "url": "https://www.youtube.com/watch?v=-ZYNk0oXt3I"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "7 Months Update – (Feeding Frenzy) NO filter, NO CO2, NO Ferts 5 Gallon Nano Tank",
+          "url": "https://www.youtube.com/watch?v=pyftwc1NLyU"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "5 Months Update Baby Food, Shrimplets, Brine Shrimp, Infusoria, NO filter, NO CO2, NO Ferts 5 Gallon",
+          "url": "https://www.youtube.com/watch?v=dU5izzyxqeA"
+        }
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Cozinha Profissional",
+      "cor": "#074F57",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Vídeos de cozinha, por profissionais",
+        "url": "https://www.youtube.com/channel/UCyWjZRvcqvzc8Fkd9czV9vQ"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Spaghetti com abobrinha e hortelã em 15 min! - Nossa Cozinha Ep.1",
+          "url": "https://www.youtube.com/watch?v=DFGI_SvgNaI"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "COMO FAZER CARAMELO PERFEITO | Cozinha Básica",
+          "url": "https://www.youtube.com/watch?v=aLHYkLeFFfU"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "AMO E ODEIO BATATA FRITA! | ERICK JACQUIN",
+          "url": "https://www.youtube.com/watch?v=dNGed9DxpI8"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Nhoque da Paola - Nossa Cozinha Ep. 3",
+          "url": "https://www.youtube.com/watch?v=aLSxRA6HQo4"
+        },
+        {
+          "titulo": "COMO FAZER REQUEIJÃO CASEIRO | Cozinha Básica",
+          "url": "https://www.youtube.com/watch?v=4PYfJQ9nGxs&t"
+        },
+        {
+          "titulo": "PREPARANDO O FAMOSO MACARRÃO À CARBONARA | DAYSE PAPAROTO",
+          "url": "https://www.youtube.com/watch?v=Y3bfjHVrLiI"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Como cortar cebolas - Nossa Cozinha bonus track",
+          "url": "https://www.youtube.com/watch?v=qxkTYHMe1tM"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Receitas Fáceis",
+      "cor": "#D7263D",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Receitas que nunca farei, mas sempre verei",
+        "url": "https://www.youtube.com/c/TastyDemais/videos"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Escondidinho na batata",
+          "url": "https://www.youtube.com/watch?v=DqUy1G5OEcs"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Espetinho de cachorro-quente",
+          "url": "https://www.youtube.com/watch?v=tB0krUFqjjc"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "21 receitas rápidas para uma noite deliciosa",
+          "url": "https://www.youtube.com/watch?v=18md1nwaca4"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "12 ideias para deixar o seu pão caseiro belíssimo",
+          "url": "https://www.youtube.com/watch?v=Anx2b9CZ-Vc"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestelar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Vídeos Aleatórios",
+      "cor": "#660058",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Horas e horas vendo, totalmente hipnotizada",
+        "url": "https://www.youtube.com/watch?v=ukui6ZN6jMo"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Woodturning - The Pencil Donut !!",
+          "url": "https://www.youtube.com/watch?v=i0aNETdn6sw"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Stick Bomb 23,600 Sticks!",
+          "url": "https://www.youtube.com/watch?v=l2f_EW2mzZU"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Daily challenge #153 / Art Silhouette / Girl in the night shilouette painting",
+          "url": "https://www.youtube.com/watch?v=8P55AjTuXBc"
+
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "NEW DOMINO RECORD + Most INSANE Spiral Ever! (32,000 Dominoes)",
+          "url": "https://www.youtube.com/watch?v=FWgH0hXZKrE"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Antique Ox-Tongue Iron - Restoration",
+          "url": "https://www.youtube.com/watch?v=UVkbYlQfNqE"
+        },
+        {
+          "titulo": "Matches Volcano VS Aquarium! Amazing Underwater Chain Reaction",
+          "url": "https://youtu.be/G1WEe3zv9Y4?t=360"
+        },
+        {
+          "titulo": "250,000 Dominoes - The Incredible Science Machine: GAME ON!",
+          "url": "https://www.youtube.com/watch?v=Q0jeohWnmAQ"
+        },
+        {
+          "titulo": "Over 1,000,000 Dominoes! (Best of 2018)",
+          "url": "https://youtu.be/JE9yGOaF-ao?t=12"
+        },
+        {
+          "titulo": "100,000 Matches Chain Reaction Fire Domino",
+          "url": "https://youtu.be/Ky7Xvc6smR0?t=394"
+        },
+        {
+          "titulo": "INSANE Domino Tricks! (Hevesh5 & MillionenDollarBoy)",
+          "url": "https://youtu.be/ARM42-eorzE?t=16"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes e Séries",
+      "cor": "#410B13",
+      "link_extra": {
+        "text": "Meus filmes e séries favoritos",
+        "url": "https://www.youtube.com/watch?v=_ZgdyDvPCDE"
+      },
+      "videos": [
+        {
+          "titulo": "Patch Adams - Trailer",
+          "url": "https://www.youtube.com/watch?v=_ZgdyDvPCDE"
+        },
+        {
+          "titulo": "Blown Away (Season 1) Netflix Trailer",
+          "url": "https://www.youtube.com/watch?v=Qb3zq_VRJ3Q"
+        },
+        {
+          "titulo": "The Good Place | Trailer da temporada 01 | Dublado (Brasil) [HD]",
+          "url": "https://www.youtube.com/watch?v=22PDaEUC120"
+        },
+        {
+          "titulo": "After Life | Official Trailer [HD] | Netflix",
+          "url": "https://www.youtube.com/watch?v=eIGGKSHMQOM"
+        },
+        {
+          "titulo": "The Umbrella Academy – Temporada 2 | Cena de abertura | Netflix",
+          "url": "https://www.youtube.com/watch?v=gg1TK8yDnBU"
+        },
+        {
+          "titulo": "Até o Último Homem | Trailer",
+          "url": "https://www.youtube.com/watch?v=4s4UCxCv_OE"
+        },
+        {
+          "titulo": "Top WTF Moments From 100 Humans | Netflix",
+          "url": "https://www.youtube.com/watch?v=ocGHeqpGCvo"
+        },
+        {
+          "titulo": "France 2 / Le Chalet : teaser",
+          "url": "https://www.youtube.com/watch?v=bjVBpEGCDCk"
+        },
+        {
+          "titulo": "The Office",
+          "url": "https://www.youtube.com/watch?v=WvZdEKbqH24"
+        },
+        {
+          "titulo": "LUTHER Series 5 | OFFICIAL TRAILER - BBC",
+          "url": "https://www.youtube.com/watch?v=zltvWcctE6g"
+        },
+        {
+          "titulo": "ORPHAN BLACK Trailer - New BBC AMERICA Original Series March 30",
+          "url": "https://www.youtube.com/watch?v=do_BCA-vR9E"
+        },
+        {
+          "titulo": "Canal Sony | How To Get Away With Murder - Trailer",
+          "url": "https://www.youtube.com/watch?v=E-MJsHRYIlY"
         }
       ]
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "cor": "#FFC857",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
