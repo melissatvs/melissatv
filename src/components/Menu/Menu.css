@@ -23,9 +23,10 @@
     padding-left: 5%;
     padding-right: 5%;
   
-    background: var(--black);
-    border-bottom: 2px solid var(--primary);
+    background: var(--primary);
+    border-bottom: 2px solid var(--white);
   }
+
   body {
     --bodyPaddingTop: 94px;
     padding-top: var(--bodyPaddingTop);
@@ -54,11 +55,11 @@
     border-radius: 5px;
     text-decoration: none;
     display: inline-block;
-    transition: opacity .3s;
+    transition: background-color .5s ease-out .3s;
   }
   .ButtonLink:hover,
   .ButtonLink:focus {
-    opacity: .5;
+    opacity: var(--primaryBold);
   }
   
   @media (max-width: 800px) {

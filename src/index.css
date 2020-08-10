@@ -4,14 +4,13 @@
 }
 
 :root {
-  --primary: #FF8C2A;
-  --black: #000000;
-  --blackLighter: #9E9E9E;
-  --grayLight: #F5F5F5;
-  --grayMedium: #e5e5e5; 
-  --white: #FFFFFF;
-  --frontEnd: #6BD1FF;
-  --backEnd: #00C86F;
+  --primary: #F35361;
+  --primaryBold: #BF0D1C;
+  --black: #0A2342;
+  --blackLighter: #1a3c66;
+  --grayLight: #d3d3d3;
+  --grayMedium: #a8a8a8; 
+  --white: #FFFDF7;
 }
 
 html,
@@ -23,3 +22,13 @@ body {
 a {
   color: inherit;
 } 
+
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
+
+.react-icons {
+  vertical-align: middle;
+}
